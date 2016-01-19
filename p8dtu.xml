@@ -10806,7 +10806,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>BUS_TYPE</id>
-		<default>DDR3</default>
+		<default>DDR4</default>
 	</attribute>
 	<attribute>
 		<id>CHIP_UNIT</id>
@@ -10857,7 +10857,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>BUS_TYPE</id>
-		<default>DDR3</default>
+		<default>DDR4</default>
 	</attribute>
 	<attribute>
 		<id>CHIP_UNIT</id>
@@ -10908,7 +10908,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>BUS_TYPE</id>
-		<default>DDR3</default>
+		<default>DDR4</default>
 	</attribute>
 	<attribute>
 		<id>CHIP_UNIT</id>
@@ -10959,7 +10959,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>BUS_TYPE</id>
-		<default>DDR3</default>
+		<default>DDR4</default>
 	</attribute>
 	<attribute>
 		<id>CHIP_UNIT</id>
@@ -11053,7 +11053,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>BUS_TYPE</id>
-		<default>DDR3</default>
+		<default>DDR4</default>
 	</attribute>
 	<attribute>
 		<id>CHIP_UNIT</id>
@@ -11104,7 +11104,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>BUS_TYPE</id>
-		<default>DDR3</default>
+		<default>DDR4</default>
 	</attribute>
 	<attribute>
 		<id>CHIP_UNIT</id>
@@ -11155,7 +11155,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>BUS_TYPE</id>
-		<default>DDR3</default>
+		<default>DDR4</default>
 	</attribute>
 	<attribute>
 		<id>CHIP_UNIT</id>
@@ -11206,7 +11206,7 @@
 	<position>-1</position>
 	<attribute>
 		<id>BUS_TYPE</id>
-		<default>DDR3</default>
+		<default>DDR4</default>
 	</attribute>
 	<attribute>
 		<id>CHIP_UNIT</id>
